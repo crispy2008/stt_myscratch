@@ -1,0 +1,3 @@
+/Users/evelynhou/illixr_files/stt_myscratch/cppver/standalone/build/CMakeFiles/standalone.dir
+/Users/evelynhou/illixr_files/stt_myscratch/cppver/standalone/build/CMakeFiles/edit_cache.dir
+/Users/evelynhou/illixr_files/stt_myscratch/cppver/standalone/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/evelynhou/illixr_files/stt_myscratch/cppver/standalone/build",
+  "command": "/usr/bin/c++   -g -arch arm64 -o CMakeFiles/standalone.dir/main.cpp.o -c /Users/evelynhou/illixr_files/stt_myscratch/cppver/standalone/main.cpp",
+  "file": "/Users/evelynhou/illixr_files/stt_myscratch/cppver/standalone/main.cpp",
+  "output": "CMakeFiles/standalone.dir/main.cpp.o"
+}
+]
